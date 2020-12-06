@@ -1,0 +1,8 @@
+def setup():
+    size(600,600)
+    
+    
+def draw():
+      
+    circle(random(0,600),random(0,600),random(50))
+    fill(random(255),random(255),random(255))
